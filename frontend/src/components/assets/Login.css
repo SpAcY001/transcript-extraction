@@ -1,0 +1,28 @@
+.login-card {
+    margin: 2rem auto;
+    padding: 2rem;
+    width: 100%;
+    max-width: 400px; 
+    background-color: #fff;
+    border-radius: 0.5rem;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    transform: translateY(-2%);
+    transition: transform 0.3s ease;
+}
+.login-card:hover {
+    transform: translateY(-5%) scale(1.02);
+}
+.form-control {
+    margin-bottom: 1rem;
+}
+.form-group, .btn-group {
+    margin-bottom: 1rem;
+}
+.btn-primary, .btn-secondary {
+    width: calc(50% - 5px);
+}
+.btn-group { 
+    display: flex;
+    justify-content: space-evenly;
+    column-gap: 90px; 
+}

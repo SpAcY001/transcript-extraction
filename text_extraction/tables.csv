@@ -1,0 +1,25 @@
+Table: Table_1
+
+Course Code ,Name of the Course ,Credits ,Grade ,
+19EMA101 ,Engineering Mathematics-I(Calculus and Algebra) ,3 ,A+ ,
+19EHS131 ,Communicative English-I ,3.5 ,A ,
+19EPH131 ,Engineering Physics ,4.5 ,A+ ,
+19EID131 ,Problem Solving and Programming ,5.5 ,A ,
+19EME121 ,Workshop ,1.5 ,A ,
+19EMC181C ,National Sports Organization ,0 ,S ,
+,,,,
+
+
+
+
+
+Table: Table_2
+
+Grade ,O ,A+ ,A ,B+ ,B ,C ,P ,F ,,Credits ,,
+Grade Points ,10 ,9 ,8 ,7 ,6 ,5 ,4 ,0 ,,,,
+% of Marks ,90 & above ,80-89 ,70-79 ,60-69 ,50-59 ,45-49 ,40-44 ,0-39 ,,Cumulative Credits ,18 ,
+
+
+
+
+
